@@ -23,7 +23,7 @@ const ERROR_MESSAGE = document.querySelector(".error-message");
 const SAVED_CITY = document.querySelector(".saved-city");
 const DELETE_ALL_BUTTON = document.querySelector(".delete-all-button");
 
-const API_key = "YOUR_API_KEY"; // Replace with your actual API key
+const API_key = "dba91550ff3a8572e6af34e2ef3d5070";
 
 WEATHER_FORM.addEventListener("submit", async (event) => {
   event.preventDefault();
